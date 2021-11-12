@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Login with Google</string>
+    //Headings
+    <string name="heading_one">Quick &amp; Easy LiveStream</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Free Connect</string>
+    <string name="heading_fourth">Livestream Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Livestream with Shark Live</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
 </resources>
